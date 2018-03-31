@@ -1,6 +1,6 @@
 ---
-Title: Verificação
-Img: phones.png
+Title: Assistência ao Usuário
+Img: static/services/phones.png
 Category: Services
 Draft: false
 ---
