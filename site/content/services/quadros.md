@@ -1,6 +1,6 @@
 ---
 Title: Quadros de Horários
-Img: telaQuadro.png
+Img: telaQuadro.PNG
 Category: Services
 Draft: false
 ---
