@@ -1,3 +1,14 @@
+# Projeto Interdisciplinar IV
+
+## 1º Bimestre
+
+* Escolher um gerador de sites estáticos
+* Definir um template do site
+* Definir um esqueleto (sitemap) para o site
+* Colocar o site no ar
+
+---
+
 # Victor Hugo
 
 **A Hugo boilerplate for creating truly epic websites**
