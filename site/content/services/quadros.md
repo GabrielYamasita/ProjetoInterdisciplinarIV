@@ -1,6 +1,6 @@
 ---
 Title: Quadros
-Img: "ipad.png"
+Img: ipad.png
 Category: Services
 Draft: false
 ---
