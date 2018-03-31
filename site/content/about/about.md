@@ -1,5 +1,5 @@
 ---
-Title: Sobre 
+Title: Sobre o Sistema
 Draft: false
 ---
 
