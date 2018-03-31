@@ -1,3 +1,3 @@
-+++ draft = false title = "Cadastros" img = "dog.png" weight = 1 +++
++++ date = "2015-07-18T14:08:29+02:00" draft = false title = "first" img = "dog.png" weight = 1 +++
 
-O Quadromático permite o cadastro de informações pertinentes, como um ou mais cursos e suas respectivas informações (corpo docente, salas e laboratórios, disciplinas, etc.)
+Here is your fist post. The img value contain path to the image of this post Then place a matching image in static/img - e.g. static/img/dog.png
