@@ -1,6 +1,6 @@
 ---
 Title: Assistência 
-Img: "phones.png"
+Img: phones.png
 Category: Services
 Draft: false
 ---
