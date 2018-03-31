@@ -1,5 +1,5 @@
 ---
-Title: Assistência ao Usuário
+Title: Assistência 
 Img: static/services/phones.png
 Category: Services
 Draft: false
