@@ -2,6 +2,21 @@ baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
 title = "Quadromático"
+[params]
+	description = "Sistema planejador de Quadros de Horários."
+
+[[params.social]]
+	title = "email"
+	icon = "envelope-o"
+	url = "mailto:gabriel.yamasita@hotmail.com"
+[[params.social]]
+	title = "github"
+	icon = "github"
+	url = "https://github.com/GabrielYamasita/"
+[[params.social]]
+	title = "facebook"
+	icon = "linkedin"
+	url = "https://www.facebook.com/gabriel.yamasita"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
