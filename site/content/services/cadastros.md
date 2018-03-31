@@ -1,6 +1,6 @@
 ---
 Title: Cadastros
-Img: "dog.png"
+Img: dog.png
 Category: Services
 Draft: false
 ---
