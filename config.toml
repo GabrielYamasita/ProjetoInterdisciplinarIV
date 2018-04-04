@@ -3,22 +3,17 @@ languageCode = "en-us"
 languageLang = "en"
 title = "Quadromático"
 [params]
-	description = "Sistema planejador de Quadros de Horários."
-
+description = "Sistema planejador de Quadros de Horários."
 [[params.social]]
-	title = "email"
-	icon = "envelope-o"
-	url = "mailto:gabriel.yamasita@hotmail.com"
+icon = "envelope-o"
+title = "email"
+url = "mailto:gabriel.yamasita@hotmail.com"
 [[params.social]]
-	title = "gitlab"
-	icon = "gitlab"
-	url = "http://trab.dc.unifil.br/gitlab/npi/quadromatico"
+icon = "gitlab"
+title = "gitlab"
+url = "http://trab.dc.unifil.br/gitlab/npi/quadromatico"
 [[params.social]]
-	title = "facebook"
-	icon = "facebook"
-	url = "https://www.facebook.com/gabriel.yamasita"
-
-# RSS, categories and tags disabled for an easy start
-# See configuration options for more details: 
-# https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+icon = "facebook"
+title = "facebook"
+url = "https://www.facebook.com/gabriel.yamasita"
