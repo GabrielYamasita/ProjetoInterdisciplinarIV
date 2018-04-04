@@ -10,9 +10,9 @@ title = "Quadromático"
 	icon = "envelope-o"
 	url = "mailto:gabriel.yamasita@hotmail.com"
 [[params.social]]
-	title = "github"
-	icon = "github"
-	url = "https://github.com/GabrielYamasita/"
+	title = "gitlab"
+	icon = "gitlab"
+	url = "http://trab.dc.unifil.br/gitlab/npi/quadromatico"
 [[params.social]]
 	title = "facebook"
 	icon = "facebook"
